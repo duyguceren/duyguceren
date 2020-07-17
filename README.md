@@ -6,7 +6,7 @@
 
 📝[CV](https://drive.google.com/file/d/12UxOYRw8QZmc37cIFh-6eyeFiNk29z90/view)
 
-[![GitHub duyguceren](https://img.shields.io/github/followers/duyguceren?label=follow&style=social)](https://github.com/duyguceren)
+<!--[![GitHub duyguceren](https://img.shields.io/github/followers/duyguceren?label=follow&style=social)](https://github.com/duyguceren)-->
 
 [![HitCount](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren.svg)](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren)
 <!--
