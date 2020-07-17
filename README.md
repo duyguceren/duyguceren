@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-You can find me 
+**You can find me**
+
 <a href="https://twitter.com/dygcrn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @dygcrn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![HitCount](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren.svg)](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren)
