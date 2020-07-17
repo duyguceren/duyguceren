@@ -4,6 +4,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@dygcrn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dygcrn)](https://twitter.com/dygcrn) 
 
+[![Linkedin Badge](https://img.shields.io/badge/-sezenduyguceren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sezenduyguceren/)](www.linkedin.com/in/sezenduyguceren/) 
+
 
 [![HitCount](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren.svg)](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren)
 <!--
