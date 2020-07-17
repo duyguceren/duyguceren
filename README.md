@@ -8,6 +8,10 @@
 
 <!--[![GitHub duyguceren](https://img.shields.io/github/followers/duyguceren?label=follow&style=social)](https://github.com/duyguceren)-->
 
+<a href="https://status.nmoo.dev/now-playing?open">
+    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
 [![HitCount](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren.svg)](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren)
 <!--
 **duyguceren/duyguceren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
