@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <iframe src="https://giphy.com/embed/VInghBdi0Ym9XJghC0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-cute-panda-heart-VInghBdi0Ym9XJghC0">via GIPHY</a></p>
 
-**Find me elsewhere**
+**Find me elsewhere** 
 
 [![Twitter Badge](https://img.shields.io/badge/-@dygcrn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dygcrn)](https://twitter.com/dygcrn) 
 
