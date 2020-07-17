@@ -2,7 +2,8 @@
 
 **You can find me**
 
-<a href="https://twitter.com/dygcrn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @dygcrn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Twitter Badge](https://img.shields.io/badge/-@dygcrn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dygcrn)](https://twitter.com/dygcrn) 
+
 
 [![HitCount](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren.svg)](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren)
 <!--
