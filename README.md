@@ -6,6 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sezenduyguceren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sezenduyguceren/)](www.linkedin.com/in/sezenduyguceren/) 
 
+[![Gmail Badge](https://img.shields.io/badge/-duyguceren93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duyguceren93@gmail.com)](mailto:duyguceren93@gmail.com)
 
 [![HitCount](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren.svg)](http://hits.dwyl.com/duyguceren/https://githubcom/duyguceren/duyguceren)
 <!--
