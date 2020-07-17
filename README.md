@@ -1,4 +1,4 @@
-### Hi there 👋 <iframe src="https://giphy.com/embed/VInghBdi0Ym9XJghC0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-cute-panda-heart-VInghBdi0Ym9XJghC0">via GIPHY</a></p>
+### Hi there 👋 <img src="https://media.giphy.com/media/Q7A8xgdxK7MpBUHufz/giphy.gif" width="50">
 
 **Find me elsewhere** 
 
