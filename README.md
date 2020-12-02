@@ -4,6 +4,13 @@
 
 **Find me elsewhere** 
 
-[![Twitter Badge](https://img.shields.io/badge/-@dygcrn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dygcrn)](https://twitter.com/dygcrn) [![Linkedin Badge](https://img.shields.io/badge/-sezenduyguceren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sezenduyguceren/)](www.linkedin.com/in/sezenduyguceren/) [![Gmail Badge](https://img.shields.io/badge/-duyguceren93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duyguceren93@gmail.com)](mailto:duyguceren93@gmail.com)
+<p>
+  
+  <a href="https://www.linkedin.com/in/sezenduyguceren/">
+    <img src="https://img.shields.io/badge/sezenduyguceren-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 📝[CV](https://drive.google.com/file/d/1qL1ej8epLVfIAVQ3sKC0BGDdfPU3yRjk/view)
+
