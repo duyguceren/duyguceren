@@ -14,3 +14,4 @@
 
 📝[CV](https://drive.google.com/file/d/1qL1ej8epLVfIAVQ3sKC0BGDdfPU3yRjk/view)
 
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=duyguceren&show_icons=true&theme=tokyonight)](https://github.com/duyguceren)
